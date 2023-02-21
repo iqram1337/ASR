@@ -1,5 +1,6 @@
 clear
 clc
+% tugas nomor 2
 
 d = 20;
 %N = 6;
